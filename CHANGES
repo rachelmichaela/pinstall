@@ -1,0 +1,9 @@
+# Changelog
+
+Document last updated 24th December, 2020 (9 Tevet 5781).
+
+### Version 0.1.0
+
+- Initial release of a custom script for installing script files and
+manual pages on UNIX-like systems. Currently supports the BSD family,
+macOS, and GNU/Linux.
